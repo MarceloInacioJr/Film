@@ -1,8 +1,19 @@
-<svg width="50" height="50" viewBox="0 0 50 50" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <pattern id="pattern0" patternContentUnits="objectBoundingBox" width="1" height="1">
-      <image id="image0" width="50" height="50" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAACXBIWXMAAAsTAAALEwEAmpwYAAABzElEQVR4nO3ZsWoUURiG4UMsEmwkENsELbUJ2tppa6foFSjiBdhpa6udF2AKWytTKFHblJaSgFaK0UaiuMsjy/5LxrCua2Z250w4bznscL6X/3y7O2dSKhQKhcKUYBX38R4vU5fAIm7gBfoO6IYIzuEhPlXC/8AzXMWJlCs4hVt460/e4R5WUq5gAZfxFPuV8F/wGOtZ98ZBgJ1K+H50YdCJxWx7YxjgOp7jVyXAh+jDmax7o0aA1nuDZdzF9qEA23F9eRa9MVz3zmDyORT3v3pjuO4VbFTW/VlHZKvB4u6E1OqEe9fwALvGUEdkxMQA8dn1mNJgWiP2Y5qDqS785b4l3MTmIfHmRWZRXJyPL4zPk8LPTCT27yU8wffKOl/j2oUjiLcistVAceUgMqJWcbMRSf/+pe81JTA3EZzGI+yZIWkOItXedFqkd1xE5kIqIkGZSMOksrWCsrUaJpWtldfW6h2Xibzqushe/CFd6aJIP54iB0+TJ48sUAn4Bq/nKLIbD2NrtcNPIde0SDuvFjQn0u6rBfVEvsVJy8VWwk/bmwnF3YxDuKWUM8bzMQ7gzqauYFhYcW61EedYY49IswbXcHvSq4VCoZBa5TceKUEfi5OzBQAAAABJRU5ErkJggg=="/>
-    </pattern>
-  </defs>
-  <rect width="50" height="50" fill="url(#pattern0)"/>
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg version="1.0" xmlns="http://www.w3.org/2000/svg"
+    width="100pt" height="100pt" viewBox="0 0 100 100"
+    preserveAspectRatio="xMidYMid meet">
+
+    <g transform="translate(0,100) scale(0.1,-0.1)"
+        fill="#FFFFFF" stroke="none">
+        <path d="M405 776 l-260 -101 0 -225 c0 -193 2 -225 15 -225 13 0 15 31 18
+        211 l2 211 247 94 c135 52 253 99 261 105 16 12 8 35 -11 33 -7 -1 -129 -47
+        -272 -103z"/>
+        <path d="M505 696 l-260 -101 0 -225 c0 -193 2 -225 15 -225 13 0 15 31 18
+        211 l2 211 247 94 c135 52 253 99 261 105 16 12 9 35 -11 33 -7 -1 -129 -47
+        -272 -103z"/>
+        <path d="M596 619 c-126 -49 -235 -94 -243 -100 -18 -16 -19 -417 0 -424 13
+        -6 447 157 485 181 22 15 22 16 20 222 -3 175 -5 207 -18 209 -8 1 -118 -39
+        -244 -88z"/>
+    </g>
 </svg>
