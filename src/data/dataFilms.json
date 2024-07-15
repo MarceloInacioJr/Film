@@ -1,0 +1,62 @@
+{
+    "films":[
+
+        {
+            "id":"0",
+            "name": "Nome do filme",
+            "subtitle":"Subtitulo flme teste teste tse xslhsdbd sihdjkhsjk diskldsds  ccjhsklnskn cnncsnc cncsllsl sd=sp dpdpdp.",
+            "genero":"Ação e Aventura",
+            "date_release": "05/10/2024",
+            "quantity_watched": "0",
+            "status_films":"Normal",
+            "url_films":""
+        },
+
+
+        {
+            "id":"1",
+            "name": "Nome do filme",
+            "subtitle":"",
+            "genero":"Ação e Aventura",
+            "date_release": "05/10/2024",
+            "quantity_watched": "0",
+            "status_films":"Normal",
+            "url_films":""
+        },
+
+        {
+            "id":"2",
+            "name": "Nome do filme",
+            "subtitle":"",
+            "genero":"Ação e Aventura",
+            "date_release": "05/10/2024",
+            "quantity_watched": "0",
+            "status_films":"Normal",
+            "url_films":""
+        },
+
+        {
+            "id":"3",
+            "name": "Nome do filme",
+            "subtitle":"",
+            "genero":"Drama",
+            "date_release": "05/10/2024",
+            "quantity_watched": "0",
+            "status_films":"Normal",
+            "url_img_cover":"",
+            "url_films":""
+        },
+
+        {
+            "id":"4",
+            "name": "Nome do filme",
+            "subtitle":"",
+            "genero":"Drama",
+            "date_release": "05/10/2024",
+            "quantity_watched": "0",
+            "status_films":"Normal",
+            "url_films":""
+        }
+
+    ]
+}
